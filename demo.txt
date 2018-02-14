@@ -1,4 +1,4 @@
-this is my gitproject
+this is a gitproject
 today,l,am a lonely person
 today is february 14th
 beanch update
