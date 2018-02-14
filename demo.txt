@@ -4,4 +4,5 @@ today is february 14th
 beanch update
 master confilct test
 branch mannage strategy
+set stash test
 
